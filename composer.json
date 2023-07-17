@@ -19,8 +19,7 @@
 
     "require": {
         "php": ">=7.0",
-        "alchemy/zippy": "~0.4.9",
-        "symfony/process": "<4"
+        "alchemy/zippy": "~0.4.9"
     },
 
     "autoload": {
